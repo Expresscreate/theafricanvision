@@ -9,5 +9,12 @@ __pycache__/
 *.log
 *.sqlite3
 .idea/
+# WordPress export artifacts (useless for static site)
+missing_images*.txt
+broken_links*.txt
+
+# Large files (>25MB) - exclude from deployment
+wp-content/uploads/2020/08/eh2011cha1.pdf
+
 # keep .bak files unless you choose otherwise
 # *.bak
