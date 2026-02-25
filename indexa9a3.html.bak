@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+METHOD:PUBLISH
+CALSCALE:GREGORIAN
+PRODID:-//WordPress - MECv5.20.6.1685547213//EN
+X-ORIGINAL-URL:https://anyl4psd.org/
+BEGIN:VEVENT
+UID:MEC-3f2798418e4bad12ef063cb9300805bd@anyl4psd.org
+DTSTART:20201106T070000Z
+DTEND:20210630T170000Z
+DTSTAMP:20230130T030800Z
+CREATED:20230130
+LAST-MODIFIED:20230130
+SUMMARY:APPEL MONDIAL À CONTRIBUTIONS ET À COLLABORATION POUR LA MISE EN ŒUVRE D’UN COURS EN LIGNE OUVERT MASSIF (MOOC) SUR LE NOUVEAU PACTE POUR LA NATURE ET LES PERSONNES
+DESCRIPTION:Le continent africain connaît un rythme de développement économique rapide qui culmine par une demande et une pression accrues sur les ressources naturelles du continent. Représentant plus de 60% de la population africaine, la jeunesse africaine est touchée de manière disproportionnée par les problèmes environnementaux qui affligent le continent. La désertification, la pollution, l’érosion, la surexploitation des ressources naturelles telles que la forêt et l’eau, entre autres, entravent la prospérité et le développement économique. La santé des systèmes naturels de l’Afrique a souffert et au cours des quatre dernières décennies, les ressources de la biodiversité de l’Afrique ont connu un déclin de plus de 40%, occasionnant des conflits et des migrations.\nLes défis décrits ci-dessus doivent être relevés et d’une manière qui ne compromet pas la capacité des pays africains à maintenir le progrès. Relever les défis susmentionnés nécessite la participation des jeunes. La jeunesse africaine a un rôle à jouer dans le passage des auteurs involontaires de la dégradation de l’environnement aux gardiens du capital naturel. Un tel changement entraînera potentiellement des avantages en matière de durabilité tels que des emplois verts. Cependant, malgré la reconnaissance du rôle important des jeunes dans la mise en œuvre de la croissance verte et, en fin de compte, du développement durable, on n’a pas fait assez pour renforcer leur capacité à conduire ce programme. Le renforcement de leurs capacités leur permettrait de posséder des compétences participatives, des compétences de gestion, compétences techniques et compétences transformationnelles vers une croissance verte et contribuant à une transformation socio-économique positive du continent africain. Par conséquent, le Réseau africain des jeunes leaders pour la paix et le développement durable (ANYL4PSD) met en œuvre dans le cadre de son université en ligne, un Massive Online Open Courses (MOOC) sur le New Deal pour la nature et les personnes.\nL’objectif principal de ce MOOC est de former des jeunes leaders afin de renforcer leurs capacités internes et externes, leurs capacités de plaidoyer et d’engagement, leurs capacités de suivi et d’évaluation pour une mise en œuvre efficace du New Deal pour la Nature et les Hommes et la bonne livraison d’économies vertes. , développement durable en Afrique. Cela sera guidé par les principaux piliers stratégiques d’intervention de la théorie du changement (ToC) qui comprennent la promotion des politiques, le renforcement des capacités, l’entrepreneuriat durable / vert et les plates-formes de réseautage.\n
+URL:https://anyl4psd.org/fr/events/appel-mondial-a-contributions-et-a-collaboration-pour-la-mise-en-oeuvre-dun-cours-en-ligne-ouvert-massif-mooc-sur-le-nouveau-pacte-pour-la-nature-et-les-personnes/
+ORGANIZER;CN=:MAILTO:
+ATTACH;FMTTYPE=image/jpeg:wp-content/uploads/2020/11/IMG-20201104-WA0029-1.jpg
+END:VEVENT
+END:VCALENDAR

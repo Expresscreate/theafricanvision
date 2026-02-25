@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Grants Archives - anyl4psd</title>
+	<atom:link href="https://anyl4psd.org/category/grants/feed/" rel="self" type="application/rss+xml" />
+	<link>https://anyl4psd.org/category/grants/</link>
+	<description>The African Network of Young Leaders for Peace and Sustainable Development</description>
+	<lastBuildDate>Tue, 03 Aug 2021 10:38:30 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
+
+<image>
+	<url>../../../wp-content/uploads/2021/03/cropped-cropped-logo-site-32x32.png</url>
+	<title>Grants Archives - anyl4psd</title>
+	<link>https://anyl4psd.org/category/grants/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Women Grants to End Violence Against Women and Children</title>
+		<link>https://anyl4psd.org/women-grants-to-end-violence-against-women-and-children/</link>
+		
+		<dc:creator><![CDATA[AnYl4Psd]]></dc:creator>
+		<pubDate>Wed, 23 Jun 2021 16:04:10 +0000</pubDate>
+				<category><![CDATA[Grants]]></category>
+		<guid isPermaLink="false">https://anyl4psd.org/?p=10578</guid>
+
+					<description><![CDATA[<p>Women Grants to End Violence Against Women and Children In order to End Violence Against Women and Violence Against Children, a research grant is available to support research to improve prevention and response to VAW, VAC, and other forms of violence driven by gender inequality in low and middle-income countries – a major public health concern and human rights violation. Project supported by the research Grant should: Apply feminist and women-centred research and partnerships. Be [&#8230;]</p>
+<p>L’article <a rel="nofollow" href="https://anyl4psd.org/women-grants-to-end-violence-against-women-and-children/">Women Grants to End Violence Against Women and Children</a> est apparu en premier sur <a rel="nofollow" href="https://anyl4psd.org">anyl4psd</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,36 @@
+@font-face {
+  font-family: "Gainlove";
+  src: url("../fonts/gainlove_regular.eot");
+  src: url("../fonts/gainlove_regular.eot") format("embedded-opentype"), url("../fonts/gainlove_regular.woff2") format("woff2"), url("../fonts/gainlove_regular.woff") format("woff"),
+    url("../fonts/gainlove_regular.ttf") format("truetype"), url("../fonts/gainlove_regular.svg#gainlove_regular") format("svg");
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Gainlove";
+  src: url("../fonts/gainlove_demibold.eot");
+  src: url("../fonts/gainlove_demibold.eot") format("embedded-opentype"), url("../fonts/gainlove_demibold.woff2") format("woff2"), url("../fonts/gainlove_demibold.woff") format("woff"),
+    url("../fonts/gainlove_demibold.ttf") format("truetype"), url("../fonts/gainlove_demibold.svg#gainlove_demibold") format("svg");
+  font-weight: 600;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Gainlove";
+  src: url("../fonts/gainlove_demibolditalic.eot");
+  src: url("../fonts/gainlove_demibolditalic.eot") format("embedded-opentype"), url("../fonts/gainlove_demibolditalic.woff2") format("woff2"),
+    url("../fonts/gainlove_demibolditalic.woff") format("woff"), url("../fonts/gainlove_demibolditalic.ttf") format("truetype"),
+    url("../fonts/gainlove_demibolditalic.svg#gainlove_demibolditalic") format("svg");
+  font-weight: 600;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Gainlove";
+  src: url("../fonts/gainlove_bold.eot");
+  src: url("../fonts/gainlove_bold.eot") format("embedded-opentype"), url("../fonts/gainlove_bold.woff2") format("woff2"), url("../fonts/gainlove_bold.woff") format("woff"),
+    url("../fonts/gainlove_bold.ttf") format("truetype"), url("../fonts/gainlove_bold.svg#gainlove_bold") format("svg");
+  font-weight: 700;
+  font-style: normal;
+}
