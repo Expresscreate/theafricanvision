@@ -1,9 +1,2 @@
-# Ignore the large PDF that breaks wrangler uploads
-wp-content/uploads/2020/08/eh2011cha1.pdf
-
-# Also ignore typical server-side files (optional for wrangler)
-**/*.php
-wp-admin/**
-wp-includes/**
-wp-content/plugins/**
-wp-content/themes/**
+# Exclude .git folder from Cloudflare Workers deployment
+.git/
