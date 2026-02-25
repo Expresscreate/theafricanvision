@@ -1,0 +1,6 @@
+/* Minimal theme style placeholder */
+body{line-height:1.4;background:#fff;color:#222}
+h1,h2,h3,h4,h5,h6{color:#111;margin:0 0 .5rem}
+a{color:#007aff;text-decoration:none}
+.site-header, .site-footer{background:#f8f8f8;padding:1rem}
+.main-navigation ul{list-style:none;padding:0;margin:0;display:flex;gap:1rem}
